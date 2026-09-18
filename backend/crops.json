@@ -1,0 +1,254 @@
+{
+  "rice": {
+    "name": "Rice",
+    "season": "Kharif",
+    "soil": "Clayey and loamy soils with good water-holding capacity",
+    "water": "High water requirement, especially during establishment and active growth",
+    "fertilizer": "Nitrogen, phosphorus and potassium based on soil condition and crop stage",
+    "common_diseases": [
+      "Blast",
+      "Bacterial leaf blight",
+      "Sheath blight",
+      "Brown spot"
+    ],
+    "common_pests": [
+      "Stem borer",
+      "Leaf folder",
+      "Brown planthopper"
+    ],
+    "sustainable_practices": [
+      "Use water efficiently",
+      "Avoid unnecessary nitrogen application",
+      "Use resistant varieties where suitable",
+      "Follow integrated pest management"
+    ]
+  },
+
+  "wheat": {
+    "name": "Wheat",
+    "season": "Rabi",
+    "soil": "Well-drained loamy and clay-loamy soils",
+    "water": "Moderate requirement with irrigation needed at important growth stages",
+    "fertilizer": "Nitrogen, phosphorus and potassium based on soil testing and crop requirements",
+    "common_diseases": [
+      "Leaf rust",
+      "Stripe rust",
+      "Powdery mildew",
+      "Loose smut"
+    ],
+    "common_pests": [
+      "Aphids",
+      "Termites",
+      "Armyworms"
+    ],
+    "sustainable_practices": [
+      "Use balanced fertilization",
+      "Avoid excessive irrigation",
+      "Use disease-resistant varieties",
+      "Practice crop rotation"
+    ]
+  },
+
+  "maize": {
+    "name": "Maize",
+    "season": "Kharif, Rabi and Spring depending on region",
+    "soil": "Well-drained fertile loamy soils",
+    "water": "Moderate requirement; water is especially important during flowering and grain formation",
+    "fertilizer": "Nitrogen, phosphorus and potassium according to soil condition and crop stage",
+    "common_diseases": [
+      "Turcicum leaf blight",
+      "Maydis leaf blight",
+      "Common rust",
+      "Stalk rot"
+    ],
+    "common_pests": [
+      "Fall armyworm",
+      "Stem borer",
+      "Shoot fly"
+    ],
+    "sustainable_practices": [
+      "Use integrated pest management",
+      "Avoid excessive nitrogen",
+      "Maintain proper plant spacing",
+      "Use efficient irrigation methods"
+    ]
+  },
+
+  "chickpea": {
+    "name": "Chickpea",
+    "season": "Rabi",
+    "soil": "Well-drained loamy to clay-loamy soils",
+    "water": "Low to moderate requirement; excessive moisture should be avoided",
+    "fertilizer": "Balanced nutrient management with attention to phosphorus and other soil deficiencies",
+    "common_diseases": [
+      "Fusarium wilt",
+      "Ascochyta blight",
+      "Botrytis grey mould"
+    ],
+    "common_pests": [
+      "Gram pod borer",
+      "Aphids",
+      "Cutworms"
+    ],
+    "sustainable_practices": [
+      "Use crop rotation",
+      "Use disease-free seed",
+      "Avoid waterlogging",
+      "Follow integrated pest management"
+    ]
+  },
+
+  "mustard": {
+    "name": "Mustard",
+    "season": "Rabi",
+    "soil": "Well-drained loamy and sandy-loam soils",
+    "water": "Low to moderate requirement with irrigation at important stages when needed",
+    "fertilizer": "Balanced nitrogen, phosphorus, potassium and sulphur management based on soil condition",
+    "common_diseases": [
+      "Alternaria blight",
+      "White rust",
+      "Downy mildew",
+      "Powdery mildew"
+    ],
+    "common_pests": [
+      "Mustard aphid",
+      "Painted bug",
+      "Mustard sawfly"
+    ],
+    "sustainable_practices": [
+      "Avoid excessive nitrogen",
+      "Use crop rotation",
+      "Monitor aphid populations",
+      "Use integrated pest management"
+    ]
+  },
+
+  "sugarcane": {
+    "name": "Sugarcane",
+    "season": "Mainly planted in spring and autumn depending on region",
+    "soil": "Deep, fertile, well-drained loamy soils",
+    "water": "High water requirement with efficient irrigation recommended",
+    "fertilizer": "Nutrients should be managed according to soil testing and crop growth stage",
+    "common_diseases": [
+      "Red rot",
+      "Smut",
+      "Wilt",
+      "Smut disease"
+    ],
+    "common_pests": [
+      "Early shoot borer",
+      "Top borer",
+      "Pyrilla",
+      "White grub"
+    ],
+    "sustainable_practices": [
+      "Use efficient irrigation",
+      "Use healthy planting material",
+      "Maintain field sanitation",
+      "Use integrated pest management"
+    ]
+  },
+
+  "groundnut": {
+    "name": "Groundnut",
+    "season": "Kharif, Rabi and Summer depending on region",
+    "soil": "Well-drained sandy loam and loamy soils",
+    "water": "Moderate requirement; water management is important during flowering and pod development",
+    "fertilizer": "Balanced nutrient management with attention to calcium and other soil requirements",
+    "common_diseases": [
+      "Tikka leaf spot",
+      "Rust",
+      "Collar rot",
+      "Stem rot"
+    ],
+    "common_pests": [
+      "Aphids",
+      "Thrips",
+      "Leaf miner",
+      "White grub"
+    ],
+    "sustainable_practices": [
+      "Practice crop rotation",
+      "Use healthy seeds",
+      "Avoid waterlogging",
+      "Use integrated pest management"
+    ]
+  },
+
+  "cotton": {
+    "name": "Cotton",
+    "season": "Kharif",
+    "soil": "Deep black soils and well-drained loamy soils",
+    "water": "Moderate requirement depending on rainfall and soil conditions",
+    "fertilizer": "Balanced nutrient management based on soil testing and crop stage",
+    "common_diseases": [
+      "Bacterial blight",
+      "Alternaria leaf spot",
+      "Fusarium wilt",
+      "Verticillium wilt"
+    ],
+    "common_pests": [
+      "Pink bollworm",
+      "American bollworm",
+      "Whitefly",
+      "Aphids"
+    ],
+    "sustainable_practices": [
+      "Use integrated pest management",
+      "Monitor pest populations regularly",
+      "Avoid unnecessary pesticide application",
+      "Maintain proper field sanitation"
+    ]
+  },
+
+  "potato": {
+    "name": "Potato",
+    "season": "Rabi",
+    "soil": "Loose, well-drained sandy loam and loamy soils",
+    "water": "Moderate requirement; consistent moisture is important during tuber development",
+    "fertilizer": "Balanced nitrogen, phosphorus and potassium based on soil testing",
+    "common_diseases": [
+      "Late blight",
+      "Early blight",
+      "Black scurf",
+      "Bacterial wilt"
+    ],
+    "common_pests": [
+      "Potato tuber moth",
+      "Aphids",
+      "White grub"
+    ],
+    "sustainable_practices": [
+      "Use healthy certified seed tubers",
+      "Avoid waterlogging",
+      "Practice crop rotation",
+      "Monitor disease development"
+    ]
+  },
+
+  "tomato": {
+    "name": "Tomato",
+    "season": "Kharif, Rabi and Summer depending on region",
+    "soil": "Well-drained sandy loam to loamy soils rich in organic matter",
+    "water": "Moderate requirement; regular but controlled irrigation is important",
+    "fertilizer": "Balanced nutrients based on soil condition and crop growth stage",
+    "common_diseases": [
+      "Early blight",
+      "Late blight",
+      "Bacterial wilt",
+      "Tomato leaf curl disease"
+    ],
+    "common_pests": [
+      "Fruit borer",
+      "Whitefly",
+      "Aphids",
+      "Thrips"
+    ],
+    "sustainable_practices": [
+      "Use healthy seedlings",
+      "Practice crop rotation",
+      "Avoid excessive irrigation",
+      "Use integrated pest management"
+    ]
+  }
+}
