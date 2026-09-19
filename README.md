@@ -136,6 +136,8 @@ The chatbot prompt is designed to encourage responsible agricultural practices, 
        └─────────────────┘              └─────────────────┘
 ```
 
+> **Development Note:** IBM Bob was used as an AI-assisted development tool during the project development workflow for code review, debugging, documentation, and development support. IBM Bob is not a runtime component of the deployed CropCare AI application.
+
 ---
 
 ## 🛠️ Technology Stack
@@ -176,12 +178,17 @@ The chatbot prompt is designed to encourage responsible agricultural practices, 
 * JWT
 * Bcrypt Password Hashing
 
+### 🤖 AI-Assisted Development
+
+* **IBM Bob** — AI-assisted development, code review, debugging and development workflow support.
+
 ---
 
 ## 📁 Project Structure
 
 ```text
 AI-Crop-Advisory-Chatbot/
+
 │
 ├── backend/
 │   ├── main.py
@@ -214,8 +221,6 @@ AI-Crop-Advisory-Chatbot/
 ├── .gitignore
 └── README.md
 ```
-
-> **Note:** The `.env` file contains private credentials and must **never** be committed to GitHub. Only `.env.example` should be included in the repository.
 
 ---
 
@@ -447,6 +452,7 @@ The application uses the following collections:
 
 ```text
 cropcare_db
+
 │
 ├── users
 │
@@ -569,7 +575,7 @@ Potential future improvements include:
 
 # 🎓 Project Purpose
 
-**CropCare AI — AI-Powered Crop Advisory Chatbot**
+## CropCare AI — AI-Powered Crop Advisory Chatbot
 
 This project was developed as an academic and technology initiative focused on:
 
@@ -579,6 +585,17 @@ This project was developed as an academic and technology initiative focused on:
 * Digital Agricultural Advisory Systems
 * Responsible Resource Management
 * Accessible Technology
+
+### AI-Assisted Development
+
+**IBM Bob** was used to support the development workflow through:
+
+* AI-assisted development
+* Code review
+* Debugging
+* Development workflow assistance
+
+The AI-assisted development process helped support implementation and refinement of the project while the final application integrates its own frontend, backend, authentication, database, and AI advisory components.
 
 ---
 
@@ -593,7 +610,7 @@ MCKV Institute of Engineering
 
 ## ⭐ Acknowledgement
 
-CropCare AI demonstrates the potential of combining **Artificial Intelligence, web technologies, cloud databases, and sustainable agriculture concepts** to build accessible digital solutions for real-world problems.
+CropCare AI demonstrates the potential of combining **Artificial Intelligence, web technologies, cloud databases, AI-assisted development tools, and sustainable agriculture concepts** to build accessible digital solutions for real-world problems.
 
 ---
 
