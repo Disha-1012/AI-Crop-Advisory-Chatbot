@@ -226,7 +226,7 @@ Follow the steps below to run CropCare AI locally.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Crop-Advisory-Chatbot.git
+git clone https://github.com/Disha-1012/AI-Crop-Advisory-Chatbot.git
 ```
 
 Move into the project directory:
